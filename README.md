@@ -1,0 +1,2 @@
+# Dist_Win_11_AppleSilicon64_ru
+Dist_Win_11_AppleSilicon64_ru
